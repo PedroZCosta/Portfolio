@@ -385,9 +385,10 @@ progress::-moz-progress-bar {
     padding: 6px;
     background-color:#222222 ;
 }
-.portfoliosCards video {
+.portfoliosCards iframe {
     padding: 6px;
     background-color:#222222 ;
+    -moz-border-radius: 52px;
     border-radius: 52px;
 }
 
