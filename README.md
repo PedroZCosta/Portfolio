@@ -1,4 +1,4 @@
-# Pedro Henrique Z. Costa - Software Engineering Portfolio
+# Software Engineering Portfolio
 ## Overview
 Welcome to my personal portfolio! I’m Pedro Henrique Z. Costa, a Software Engineering student at PUCPR, passionate about web development, Python programming, and problem-solving. This portfolio showcases my projects, skills, and experiences that reflect my journey in software development.
 
@@ -21,7 +21,7 @@ API Integration: FIPE Table API, and more.
 Comprehensive project descriptions with screenshots and live demo links.
 Responsive design, ensuring a great experience on any device.
 
-Direct links to my<a href="https://github.com/PedroZCosta" target="_blank">GitHub</a> and <a href="https://www.linkedin.com/in/pedrohzcosta/" target="_blank">LinkedIn</a> profiles for further exploration.
+Direct links to my<a href="https://github.com/PedroZCosta" target="_blank"> GitHub</a> and <a href="https://www.linkedin.com/in/pedrohzcosta/" target="_blank">LinkedIn</a> profiles for further exploration.
 
 ## How to Access the Portfolio
 You can visit my portfolio by opening the following link: [
